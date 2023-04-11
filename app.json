@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "BookingApp",
+    "slug": "BookingApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "BookingApp"
+}
